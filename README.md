@@ -1,2 +1,1 @@
-# .github
-Organisation configuration repo
+# Gateway Team Github Organization
