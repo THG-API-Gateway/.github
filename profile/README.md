@@ -1,1 +1,1 @@
-# Gateway Team Github Organization
+# Gateway Team
